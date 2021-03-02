@@ -8,8 +8,10 @@
 <br>
 <br>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Panda885&show_icons=true&bg_color=161717&title_color=fff&icon_color=4481eb&text_color=a3a3a3">
-<img aling="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Panda885&layout=compact&show_icons=true&bg_color=161717&title_color=fff&icon_color=4481eb&text_color=a3a3a3">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Panda885&show_icons=true&bg_color=161717&title_color=fff&icon_color=4481eb&text_color=a3a3a3">
+<br>
+<img aling="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Panda885&layout=compact&show_icons=true&bg_color=161717&title_color=fff&icon_color=4481eb&text_color=a3a3a3">
+
 <!--
 **Panda885/Panda885** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
