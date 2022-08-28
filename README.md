@@ -1,25 +1,24 @@
-## Hi! I'm a Java programmer.
-- I'm currently working on [Liberium](https://github.com/KrafticsTeam/Liberium)
-- You can help me with [Liberium](https://github.com/KrafticsTeam/Liberium)
+<!-- Icons used from danielcranney/readme-generator -->
 
-### You can find me on:
-[<img align="left" alt="hexeption | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/panda885_)
+<div align="center">
+    <img alt="" src="https://raw.githubusercontent.com/panda885/panda885/main/hello-card.svg">
+</div>
+<br />
 
-<br>
-<br>
+- 🌍 I live in Czechia
+- 🚀 I'm currently working on [Liberium v2](https://github.com/krafticsteam/liberium/tree/v2)
+- 👑 Lead developer of [Kraftics](https://github.com/krafticsteam)
+- ✨ Favourite languge is <img alt="" height="16px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg"> Kotlin
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Panda885&show_icons=true&bg_color=161717&title_color=fff&icon_color=4481eb&text_color=a3a3a3">
-<!--
-**Panda885/Panda885** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Socials
+[<img alt="GitHub" height="32px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg">](https://github.com/panda885)
+[<img alt="Twitter" height="32px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg">](https://twitter.com/panda885_)
+[<img alt="YouTube" height="32px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg">](https://youtube.com/channel/UC46hm_kIIB6u5PllKStSSXg)
+[<img alt="Twitch" height="32px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg">](https://twitch.tv/Panda885_)
 
-Here are some ideas to get you started:
+<br />
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+    <img alt="" src="https://github-readme-stats.vercel.app/api?username=panda885&show_icons=true&bg_color=e94c42&title_color=fff&text_color=ffffffa0&icon_color=fff&hide_border=true&border_radius=0"><img alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=Panda885&theme=dark&hide_border=true&background=E94C42&dates=FFFFFFA0&ring=FFFFFF50&fire=FFFFFF50&currStreakLabel=FFFFFF">
+</div>
