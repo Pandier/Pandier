@@ -6,6 +6,7 @@
 <br />
 
 - 🌍 I live in Czechia
+- 🧠 I'm learning [<img alt="" height="18px" src="https://astro.build/assets/press/logomark-dark.svg"> Astro](https://astro.build/)
 - 🚀 I'm currently working on [Liberium v2](https://github.com/krafticsteam/liberium/tree/v2)
 - 👑 Lead developer of [Kraftics](https://github.com/krafticsteam)
 - ✨ Favourite languge is <img alt="" height="16px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg"> Kotlin
