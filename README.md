@@ -6,8 +6,8 @@
 <br />
 
 - 🌍 I live in Czechia
+- 💡 Interested in game design and modding
 - 🚀 I'm currently working on [Niter](https://github.com/panda885/niter)
-- 👑 Lead developer of [Kraftics](https://github.com/krafticsteam)
 - ✨ Favourite languges are [<img alt="" height="16px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg"> Kotlin](https://kotlinlang.org/) and [<img alt="" height="20px" src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/rust-colored-dark.svg"> Rust](https://www.rust-lang.org/)
 
 ### Socials
