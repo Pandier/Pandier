@@ -8,7 +8,7 @@
 - 🇨🇿 I live in Czechia
 - 💡 Interested in game design and modding
 - 🚀 I'm currently working on [Niterpack](https://github.com/niterpack/niterpack)
-- ✨ Favourite languges are [<img alt="" height="16px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg"> Kotlin](https://kotlinlang.org/) and [<img alt="" height="20px" src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/rust-colored-dark.svg"> Rust](https://www.rust-lang.org/)
+- ✨ Favourite languages are [<img alt="" height="16px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg"> Kotlin](https://kotlinlang.org/) and [<img alt="" height="20px" src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/rust-colored-dark.svg"> Rust](https://www.rust-lang.org/)
 
 ### Socials
 [<img alt="GitHub" height="32px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg">](https://github.com/panda885)
