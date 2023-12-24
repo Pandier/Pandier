@@ -1,7 +1,7 @@
 <!-- Icons used from danielcranney/readme-generator -->
 
 <div align="center">
-    <img alt="" src="https://raw.githubusercontent.com/panda885/panda885/main/hello-card.svg">
+    <img alt="" src="https://raw.githubusercontent.com/pandier/pandier/main/hello-card.svg">
 </div>
 <br />
 
