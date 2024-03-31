@@ -1,15 +1,19 @@
-<!-- Icons used from danielcranney/readme-generator -->
-
 <div align="center">
     <img alt="" src="https://raw.githubusercontent.com/pandier/pandier/main/hello-card.svg">
 </div>
-<br />
 
-- 🇨🇿 I live in Czechia
-- 💡 Interested in game design and modding
-- 🚀 I'm currently working on [Niterpack](https://github.com/niterpack/niterpack)
-- ✨ Favourite languages are [<img alt="" height="16px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg"> Kotlin](https://kotlinlang.org/) and [<img alt="" height="20px" src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/rust-colored-dark.svg"> Rust](https://www.rust-lang.org/)
+<br>
 
 <div align="center">
-    <img alt="" src="https://github-readme-stats.vercel.app/api?username=pandier&show_icons=true&bg_color=e94c42&title_color=fff&text_color=ffffffa0&icon_color=fff&hide_border=true&border_radius=0"><img alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=pandier&theme=dark&hide_border=true&background=E94C42&dates=FFFFFFA0&ring=FFFFFF50&fire=FFFFFF50&currStreakLabel=FFFFFF">
+    <img alt="Rust" src="https://img.shields.io/badge/Rust-%23ed523e?style=for-the-badge&logo=rust&logoColor=white" />
+    <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-%23c048f0?style=for-the-badge&logo=kotlin&logoColor=white" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%233e72ed?style=for-the-badge&logo=typescript&logoColor=white" />
+</div>
+
+<br>
+
+<div align="center">
+    <img alt="" src="https://github-readme-stats.vercel.app/api?username=pandier&show_icons=true&bg_color=1C1919&title_color=FF6D64&text_color=888080&icon_color=FF6D64&hide_border=true&border_radius=0">
+    <br>
+    <img alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=pandier&theme=dark&hide_border=true&background=1C1919&dates=888080&ring=FF6D64&fire=FF6D64&stroke=332F2F&currStreakNum=FF6D64&currStreakLabel=FF6D64">
 </div>
